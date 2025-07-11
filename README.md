@@ -1,23 +1,26 @@
 # parental-alienation-resources
 Learn more about the impact of parental alienation and how it affects families.
 
-# Parental Alienation Syndrome: Mental Health Insights
+# Parental Alienation & Mental Health
 
-Parental Alienation Syndrome (PAS) is a psychological condition where a child is manipulated into rejecting one parent due to the influence of the other. This often leads to long-term emotional and mental health challenges for both the child and the targeted parent.
+Parental alienation occurs when a child becomes unjustifiably hostile or distant toward one parent, often due to manipulation by the other. This emotional estrangement can have lasting effects on a child's mental health and family dynamics.
 
-Learn more about how parental alienation affects families and how professional psychiatric care can help in recovery.
-
-🔗 [Read the full article on Parental Alienation Syndrome](https://gabapsychiatrist.com/parental-alienation-syndrome/)
-
----
-
-## 📚 What This Repo Covers
-- Psychological effects of PAS on children
-- How it manifests during custody battles
-- Mental health treatment and intervention strategies
-- Signs, symptoms, and long-term consequences
+📖 Learn more:  
+🔗 [Understanding Parental Alienation – GABA Telepsychiatry](https://gabapsychiatrist.com/parental-alienation/)
 
 ---
 
-This content is provided by [GABA Telepsychiatry](https://gabapsychiatrist.com), a trusted source for online mental health care.
+## 🧠 What You'll Find in This Resource
+
+- What is parental alienation?
+- Signs children are being alienated
+- Psychological impact on children and parents
+- Clinical perspectives and treatment options
+- How online psychiatry can support affected families
+
+---
+
+**About Us**  
+[GABA Telepsychiatry](https://gabapsychiatrist.com) offers compassionate, evidence-based mental health care online—making expert help accessible for families affected by emotional trauma and conflict.
+
 
